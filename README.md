@@ -1,1 +1,1 @@
-# Liberr-Library-Management-System
+# Liberr - an LMS
